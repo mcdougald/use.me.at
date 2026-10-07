@@ -9,7 +9,7 @@
 
 Used by Trev: the equipment I currently use for programming, wireframing, making videos, and every day.
 
-use.me.at is Trevor McDougald's "uses" page. It lists the hardware, editor and software used day to day: laptop, accessories, gaming PC build, homelab, coding tools and Mac apps. Items are grouped into sections and marked as in use or retired, and the whole page is also published as machine-readable JSON for anyone who wants the list without the layout.
+use.me.at is my "uses" page. It lists the hardware, editor and software I use day to day: laptop, accessories, gaming PC build, homelab, coding tools and Mac apps. Items are grouped into sections and marked as in use or retired, and the whole page is also published as machine-readable JSON for anyone who wants the list without the layout.
 
 **Live:** [use.me.at](https://use.me.at)
 
@@ -32,7 +32,7 @@ use.me.at is Trevor McDougald's "uses" page. It lists the hardware, editor and s
 
 ## Part of the me.at family
 
-use.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+use.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
