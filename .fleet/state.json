@@ -1,0 +1,28 @@
+{
+  "domain": "use.me.at",
+  "network": "me.at",
+  "generator": "@repo/app-shell/repo-fleet",
+  "contentHash": "fefb749a41453be6cd547404abc7a20a2fd732fcbeedab8e2cdb79dc4f1907eb",
+  "lastSyncedAt": "2026-10-20",
+  "paths": [
+    ".github/CODEOWNERS",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/assets/flow-dark.svg",
+    ".github/assets/flow.svg",
+    ".github/assets/overview-dark.svg",
+    ".github/assets/overview.svg",
+    ".github/dependabot.yml",
+    ".github/workflows/docs-refresh.yml",
+    ".github/workflows/link-check.yml",
+    ".gitignore",
+    "ACTIVITY.md",
+    "LICENSE",
+    "README.md",
+    "SECURITY.md",
+    "package.json",
+    "src/app/page.tsx"
+  ]
+}
